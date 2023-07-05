@@ -1,0 +1,33 @@
+{
+    "name": "Cyberdome theme",
+    "elements": [
+        {
+            "tag": "Go Service",
+            "background": "#8FB5FE",
+            "color": "#EEECE6",
+            "stroke": "#5881D8",
+            "shape": "RoundedBox",
+            "icon": "https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg"
+        },
+        {
+            "tag": "Database",
+            "background": "#EEECE6",
+            "color": "#3f51d4",
+            "stroke": "#3f51d4",
+            "shape": "Cylinder",
+            "icon": "https://github.com/structurizr/themes/blob/master/oracle-cloud-infrastructure-2023.04.01/Database%20System.png"
+        },
+        {
+            "tag": "Web Browser",
+            "shape": "WebBrowser"
+        },
+        {
+            "tag": "Vault",
+            "background": "#EEECE6",
+            "color": "#3f51d4",
+            "stroke": "#3f51d4",
+            "shape": "Cylinder",
+            "icon": "https://github.com/structurizr/themes/blob/master/oracle-cloud-infrastructure-2023.04.01/Vault.png"
+        }
+    ]
+}
