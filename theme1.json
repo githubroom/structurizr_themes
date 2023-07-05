@@ -15,7 +15,7 @@
             "color": "#3f51d4",
             "stroke": "#3f51d4",
             "shape": "Cylinder",
-            "icon": "https://raw.githubusercontent.com/structurizr/themes/master/oracle-cloud-infrastructure-2023.04.01/Database%20System.png"
+            "icon": "https://static.structurizr.com/themes/oracle-cloud-infrastructure-2023.04.01/Database%20System.png"
         },
         {
             "tag": "Web Browser",
